@@ -46,15 +46,6 @@ Example:
 
 ---
 
-# 📂 Project Structure
-
-```text
-package nine
- └── nine.java
-```
-
----
-
 # 💻 Source Code
 
 ```java
