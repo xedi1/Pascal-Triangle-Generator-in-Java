@@ -124,9 +124,9 @@ This project helps beginners learn:
 
 Made with **Edi** by using Java
 *  [Git](https://github.com/xedi1/Pascal-Triangle-Generator-in-Java)
-*  [LinkedIn]()
-*  [Gmail]()
-
+*  [LinkedIn](https://www.linkedin.com/in/edii1)
+*  [Gmail](mailto:gholipourhadi86@gmail.com)
+ 
 ---
 
 # ⭐ Support
