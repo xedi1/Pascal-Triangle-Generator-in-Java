@@ -1,4 +1,4 @@
-<h1 align="center"> # ✨ Pascal Triangle Generator in Java ✨</h1>
+<h1 align="center"> ✨ Pascal Triangle Generator in Java ✨</h1>
 
 <p align="center">
 > A simple and beautiful Java console application that generates the famous Pascal Triangle 🔺
@@ -134,7 +134,7 @@ Made with **Edi** by using Java
  
 ---
 
-<h1 align="center"> # ⭐ Support </h1>
+<h1 align="center">  ⭐ Support </h1>
 
 If you like this project:
 
