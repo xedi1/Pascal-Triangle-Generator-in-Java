@@ -122,7 +122,7 @@ This project helps beginners learn:
 
 # 👨‍💻 Author
 
-Made with Edi by using Java
+Made with # Edi by using Java
 *  [Git](https://github.com/xedi1/Pascal-Triangle-Generator-in-Java)
 *  [LinkedIn]()
 *  [Gmail]()
