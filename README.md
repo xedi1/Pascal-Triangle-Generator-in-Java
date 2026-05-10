@@ -1,7 +1,8 @@
-# ✨ Pascal Triangle Generator in Java ✨
+<h1 align="center"> # ✨ Pascal Triangle Generator in Java ✨</h1>
 
+<p align="center">
 > A simple and beautiful Java console application that generates the famous Pascal Triangle 🔺
-
+</p>
 ---
 
 ## 📌 About Project
@@ -57,6 +58,10 @@ rpaskal.java
 # ▶️ How To Run
 
 ## 1️⃣ Compile
+
+```bash
+git clone https://github.com/xedi1/Pascal-Triangle-Generator-in-Java
+```
 
 ```bash
 javac rpaskal.java
@@ -129,7 +134,7 @@ Made with **Edi** by using Java
  
 ---
 
-# ⭐ Support
+<h1 align="center"> # ⭐ Support </h1>
 
 If you like this project:
 
